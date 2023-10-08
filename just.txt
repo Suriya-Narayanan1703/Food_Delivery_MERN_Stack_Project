@@ -1,0 +1,94 @@
+<div className="col-sm-12 col-md-6 col-lg-3 my-3">
+        <div className="card p-3 rounded">
+            <img
+                className="card-img-top mx-auto"
+                src="https://upload.wikimedia.org/wikipedia/sco/thumb/d/d2/Pizza_Hut_logo.svg/2177px-Pizza_Hut_logo.svg.png"
+                alt="Pizza Hut"
+            ></img>
+            <div className="card-body d-flex flex-column">
+            <h5 className="card-title">Pizza Hut</h5>
+            <p className="rest_address">
+                Sivaji Nagar Main Road, Bengaluru, Karnataka 560003
+            </p>
+                <div className="ratings mt-auto">
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star-half-o"></i>
+                  <span id="no_of_Reviews">(40 Reviews)</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-sm-12 col-md-6 col-lg-3 my-3">
+            <div className="card p-3 rounded">
+              <img
+                className="card-img-top mx-auto"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/1200px-McDonald%27s_logo.svg.png"
+                alt="Dominos"
+              ></img>
+              <div className="card-body d-flex flex-column">
+                <h5 className="card-title">McDonald</h5>
+                <p className="rest_address">
+                  Sadha Siva temple road , Bommnahalli, Bengaluru, Karnataka
+                  560006
+                </p>
+                <div className="ratings mt-auto">
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star-o"></i>
+                  <i className="fa fa-star-o"></i>
+                  <span id="no_of_Reviews">(45 Reviews)</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-sm-12 col-md-6 col-lg-3 my-3">
+            <div className="card p-3 rounded">
+              <img
+                className="card-img-top mx-auto"
+                src="https://w1.pngwing.com/pngs/827/242/png-transparent-circle-design-taco-logo-taco-bell-los-logos-taco-taco-text-purple.png"
+                alt="Dominos"
+              ></img>
+              <div className="card-body d-flex flex-column">
+                <h5 className="card-title">Taco Bell</h5>
+                <p className="rest_address">
+                  Gandhi road, Gandhi nagar, Bengaluru, Karnataka 560011
+                </p>
+                <div className="ratings mt-auto">
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star-half-o"></i>
+                  <i className="fa fa-star-o"></i>
+                  <span id="no_of_Reviews">(35 Reviews)</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-sm-12 col-md-6 col-lg-3 my-3">
+            <div className="card p-3 rounded">
+              <img
+                className="card-img-top mx-auto"
+                src="https://upload.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/2048px-KFC_logo.svg.png"
+                alt="Dominos"
+              ></img>
+              <div className="card-body d-flex flex-column">
+                <h5 className="card-title">KFC</h5>
+                <p className="rest_address">
+                  Bengaluru main road, Vikenanada road, Vikenanada street
+                  Bengaluru, Karnataka 560008
+                </p>
+                <div className="ratings mt-auto">
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
+                  <i className="fa fa-star-half-o"></i>
+                  <i className="fa fa-star-o"></i>
+                  <span id="no_of_Reviews">(35 Reviews)</span>
+                </div>
+              </div>
+            </div>
+          </div>
